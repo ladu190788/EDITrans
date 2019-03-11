@@ -1,2 +1,0 @@
-# EDITrans
-EDI Trial
