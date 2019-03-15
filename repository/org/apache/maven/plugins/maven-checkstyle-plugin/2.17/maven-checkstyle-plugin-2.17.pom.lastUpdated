@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Mar 05 22:13:56 IST 2019
+http\://repo.spring.io/milestone/.error=Could not transfer artifact org.apache.maven.plugins\:maven-checkstyle-plugin\:pom\:2.17 from/to spring-milestones (http\://repo.spring.io/milestone)\: The operation was cancelled.
+@default-spring-snapshots-http\://repo.spring.io/snapshot/.lastUpdated=1551804236092
+http\://repo.spring.io/snapshot/.error=Could not transfer artifact org.apache.maven.plugins\:maven-checkstyle-plugin\:pom\:2.17 from/to spring-snapshots (http\://repo.spring.io/snapshot)\: The operation was cancelled.
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1551804236111
+@default-spring-milestones-http\://repo.spring.io/milestone/.lastUpdated=1551804236075
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.maven.plugins\:maven-checkstyle-plugin\:pom\:2.17 from/to central (https\://repo.maven.apache.org/maven2)\: The operation was cancelled.

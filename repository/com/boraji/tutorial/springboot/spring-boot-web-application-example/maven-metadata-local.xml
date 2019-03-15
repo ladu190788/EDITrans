@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.boraji.tutorial.springboot</groupId>
+  <artifactId>spring-boot-web-application-example</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20190307014333</lastUpdated>
+  </versioning>
+</metadata>
